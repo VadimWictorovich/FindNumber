@@ -13,3 +13,11 @@ ___
 - Storyboard
 - UIViewController
 - UITableViewController
+
+---
+<p align="center">
+      <img src="https://github.com/VadimWictorovich/FindNumber/blob/main/FindNumber/gi1.gif" width="300"> <img src="https://github.com/VadimWictorovich/FindNumber/blob/main/FindNumber/gi2.gif" width="300">
+</p>
+
+#### Contact with me
+[Email](mailto:vadim.wictorowich@gmail.com "vadim.wictorowich@gmail.com")
